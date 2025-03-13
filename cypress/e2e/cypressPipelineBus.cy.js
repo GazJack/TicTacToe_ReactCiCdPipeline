@@ -1,14 +1,3 @@
-// norint paleisti terminale rasom: npm run dev
-// antram terminale: npm run cypress:run
-//
-// playwright darom:
-// npm init playwright@latest
- // typesc
- // tests
- // true
- // true
- // tests aplanke sukurti nauja faila, kuriame testus perrasysiu playwrightui
-
 describe('Tic Tac Toe testing', () => {
   beforeEach(() => {
     cy.visit('http://127.0.0.1:5173')
