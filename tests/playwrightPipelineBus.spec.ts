@@ -12,6 +12,7 @@
 // norint paleisti terminale rasom: npm run dev
 // antram terminale: npm run cypress:run
 
+// Playwright: 
 import { test, expect } from '@playwright/test';
 
 test.describe('Tic Tac Toe testing', () => {
