@@ -1,6 +1,3 @@
-// norint paleisti terminale rasom: npm run dev
-// antram terminale: npm run cypress:run
-//
 // playwright pipeline darom:
 // npm init playwright@latest
  // typesc
@@ -11,6 +8,9 @@
  // i playwright.yml irasoma:    
  //  - name: Start tic tac toe game
  // run: npm run dev &
+
+// norint paleisti terminale rasom: npm run dev
+// antram terminale: npm run cypress:run
 
 import { test, expect } from '@playwright/test';
 
