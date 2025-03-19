@@ -3,8 +3,11 @@
 🚀 This project is a Tic-Tac-Toe game built with React and Vite, featuring CI/CD automation. It includes Cypress and Playwright for testing.
 
 ⚡ Features
+
 ✔️ React with Vite – Fast development setup
+
 ✔️ CI/CD Pipeline – Automated workflows
+
 ✔️ Testing – Cypress (E2E) & Playwright (Cross-browser)
 
 📌 Getting Started
